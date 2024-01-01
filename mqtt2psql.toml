@@ -1,0 +1,12 @@
+[postgres]
+dbname = "db"
+user = "user"
+password = "password"
+host = "postgres.example.org"
+port = 5432
+
+[mqtt]
+host = "mqtt.example.org"
+port = 1883
+username = "user"
+password = "password"

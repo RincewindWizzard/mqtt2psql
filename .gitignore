@@ -1,0 +1,3 @@
+dist/*
+.idea/*
+mqtt2psql_private.toml
